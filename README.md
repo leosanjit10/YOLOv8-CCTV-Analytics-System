@@ -50,11 +50,11 @@ The system performs real-time object detection, multi-object tracking, line-cros
 
 ## 📸 Dashboard Preview
 
-> Add screenshots here after uploading them to the repository.
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1887" height="852" alt="image" src="https://github.com/user-attachments/assets/46b2720f-edb5-4a27-99b0-99e3c660fce7" />
+
 
 ### Heatmap
 
