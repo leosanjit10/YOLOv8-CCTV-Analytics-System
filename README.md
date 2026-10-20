@@ -1,5 +1,10 @@
 # YOLOv8 CCTV Video Analytics
 
+Advanced CCTV analytics built with YOLOv8 and ByteTrack for real-time object
+detection, tracking, line-crossing analytics, zone monitoring, heatmap
+generation, event logging, PDF reporting, SQLite storage, and an interactive
+Streamlit dashboard.
+
 A modular video analytics application built on Ultralytics YOLOv8, its ByteTrack
 tracker, OpenCV, SQLite, and Streamlit. It processes saved videos, webcams, and
 RTSP/IP camera URLs; writes annotated video and event artifacts; and provides a
