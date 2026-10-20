@@ -58,7 +58,8 @@ The system performs real-time object detection, multi-object tracking, line-cros
 
 ### Heatmap
 
-![Heatmap](screenshots/heatmap.png)
+<img width="1888" height="867" alt="image" src="https://github.com/user-attachments/assets/7f0ab095-0720-48b8-b23c-048f77b32788" />
+
 
 ### Processed Video
 
