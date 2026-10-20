@@ -65,7 +65,8 @@ The system performs real-time object detection, multi-object tracking, line-cros
 <img width="1897" height="872" alt="image" src="https://github.com/user-attachments/assets/09940fa9-851d-4e3b-90b7-f18cc170e753" />
 
 ### Video Analytics Report
-<img width="1897" height="872" alt="image" src="https://github.com/user-attachments/assets/e4ba4987-98d3-413a-956c-a6412bbcb48b" />
+<img width="983" height="722" alt="image" src="https://github.com/user-attachments/assets/183a44fe-8e75-45a7-b421-d5a19b8f08dd" />
+
 
 
 ---
