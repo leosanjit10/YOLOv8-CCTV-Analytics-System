@@ -1,0 +1,19 @@
+{
+  "model_path": "yolov8n.pt",
+  "source": "marathon.mp4",
+  "output_dir": "output",
+  "database_path": "data/analytics.db",
+  "confidence": 0.35,
+  "iou": 0.5,
+  "image_size": 640,
+  "device": "auto",
+  "classes": null,
+  "line_start": [0.0, 0.5],
+  "line_end": [1.0, 0.5],
+  "reconnect_attempts": 5,
+  "reconnect_delay_seconds": 2.0,
+  "log_level": "INFO",
+  "zones": {
+    "entrance": [[0.0, 0.4], [0.3, 0.4], [0.3, 1.0], [0.0, 1.0]]
+  }
+}
